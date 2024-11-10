@@ -18,19 +18,19 @@ function Testimonials() {
           <div className="mt-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               {
-                src: "/myImages/download (1).jpeg",
+                src: "/myimages/download (1).jpeg",
                 alt: "easton kai",
                 title: "easton kai",
                 role: "javascript developer",
               },
               {
-                src: "/myImages/download (2).jpeg",
+                src: "/myimages/download (2).jpeg",
                 alt: "elijah liam",
                 title: "elijah liam",
                 role: "android developer",
               },
               {
-                src: "/myImages/download.jpeg",
+                src: "/myimages/download.jpeg",
                 alt: "james owen",
                 title: "james owen",
                 role: "IOS developer",

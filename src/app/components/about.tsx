@@ -27,19 +27,19 @@ function AboutSection() {
         </div>
 
         <div className='w-[50%] sm:w-[55%] lg:w-[60%] mx-auto md:-mt-[100px] md:-mr-[40px] rounded-full flex justify-center items-center'>
-          <Image src={"/myImages/profile.jpg"} alt='picture' width={350} height={350} className='rounded-full'></Image>
+          <Image src={"/myimages/profile.jpg"} alt='picture' width={350} height={350} className='rounded-full'></Image>
         </div>
       </section>
       
       <section className="w-full py-5 px-5 mx-auto flex justify-center items-center gap-16 bg-[#1a1a1a] overflow-hidden">
-        <Image src={"/myImages/html.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImages/css.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImages/typescript.png"} alt='picture' width={70} height={70}></Image>
-        <Image src={"/myImages/git.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImages/figma.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImages/react.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImages/node.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImages/next.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimages/html.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimages/css.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimages/typescript.png"} alt='picture' width={70} height={70}></Image>
+        <Image src={"/myimages/git.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimages/figma.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimages/react.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimages/node.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimages/next.png"} alt='picture' width={96} height={96}></Image>
       </section>
     </>
   )
