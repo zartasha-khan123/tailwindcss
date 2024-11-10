@@ -1,4 +1,3 @@
-import react from "react";
 import { MdEmail, MdLocationOn } from 'react-icons/md';
 import Link from 'next/link';
 
