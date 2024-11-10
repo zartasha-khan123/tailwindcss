@@ -11,9 +11,9 @@ function HeroSection() {
   return (
     <>
       <section className='bg-[#cfb498] w-full text-center pt-[7.5rem]'>
-        <p className='text-[2rem]'>Hey! I'm <span className='text-[#975e28]'>Zartash Imran</span></p>
+        <p className='text-[2rem]'>Hey! I am <span className='text-[#975e28]'>Zartash Imran</span></p>
 
-        <p className='text-[2rem]'><span className='text-[#975e28]'>I</span>'m <span className='text-[#975e28]'>A F</span>ront <span className='text-[#975e28]'>E</span>nd <span className='text-[#975e28]'>W</span>eb <span className='text-[#975e28]'>D</span>eveloper</p>
+        <p className='text-[2rem]'><span className='text-[#975e28]'>I</span>m <span className='text-[#975e28]'>A F</span>ront <span className='text-[#975e28]'>E</span>nd <span className='text-[#975e28]'>W</span>eb <span className='text-[#975e28]'>D</span>eveloper</p>
 
         <p className='mt-[1.25rem] mb-[2rem] text-[1.125rem] text-black '>I can build user interface for web sites and applications with <span className='text-black'>React JS</span> and <span className='text-black'>Next.Js</span><br />I love the front end development.</p>
 

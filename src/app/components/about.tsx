@@ -13,8 +13,8 @@ function AboutSection() {
           
           <p className={`${caveat.className} text-[30px] mt-2 mb-6 text-light-beige text-center lg:text-start text-3xl text-[#975e28]`}>Freelance Web Developer</p>
           
-          <p className='text-[18px] mb-8'>I'm Zartash, a dedicated student at GIAIC and a passionate web developer.
-             I'm committed to learning a wide range of IT courses, constantly expanding my knowledge and skills.
+          <p className='text-[18px] mb-8'>I am Zartash, a dedicated student at GIAIC and a passionate web developer.
+             I am committed to learning a wide range of IT courses, constantly expanding my knowledge and skills.
               My focus areas include web development technologies such as TypeScript, Next.js, and Tailwind CSS.
                I have applied my learning through projects like a calculator, a countdown timer, and multiple assignment
                 pages. These projects have allowed me to implement real-world tasks, bringing my knowledge to 

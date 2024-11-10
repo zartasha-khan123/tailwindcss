@@ -13,7 +13,7 @@ function Contact() {
             </span>
           </h4>
           <p className="w-[90%] lg:w-[80%] mt-6 mx-auto text-sm lg:text-lg leading-6">
-          I'd love to hear from you! Whether you're interested in collaborating on a project, 
+          Id love to hear from you! Whether you are interested in collaborating on a project, 
           need assistance with web development, or just want to connect, feel free to reach out
           </p>
 
@@ -26,7 +26,7 @@ function Contact() {
                 <div className="text-start">
                   <p className="text-white">Have a question?</p>
                   <p className="my-2 text-[#616161]">I am here to help you</p>
-                  <p className="text-[#975e28] ">Email me at thomas.david@mail.com</p>
+                  <p className="text-[#975e28] ">Email me at john.vilil@mail.com</p>
                 </div>
               </div>
 

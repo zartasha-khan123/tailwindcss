@@ -33,7 +33,7 @@ function Services() {
               <div className="w-full mt-12 text-white">
                 <h4 className="text-2xl capitalize mb-4">branding</h4>
                 <p>
-                My branding work focuses on creating cohesive, visually appealing designs that reflect each client's
+                My branding work focuses on creating cohesive, visually appealing designs that reflect each clients
                  unique identity and values. I aim to build a memorable brand presence by aligning visual elements with the core message, ensuring consistency across platforms and touchpoints. 
                 This approach helps clients stand out and connect meaningfully with their audience.
                 </p>
