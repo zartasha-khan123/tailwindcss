@@ -53,7 +53,7 @@ function Testimonials() {
                 <p className="my-4 text-[#976535]">{person.role}</p>
                 <p className="w-[95%] md:w-[97%] mx-auto mb-6 leading-7 text-center">
                 Her attention to detail is impeccable. ZArtash ensures every line of code serves a purpose,
-                 making her projects not only functional but also efficient and easy to maintain."
+                 making her projects not only functional but also efficient and easy to maintain.
                 </p>
               </div>
             ))}
